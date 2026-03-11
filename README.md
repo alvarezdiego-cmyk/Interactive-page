@@ -16,8 +16,8 @@ An interactive visual project built with `Three.js + TensorFlow.js + MediaPipe` 
 1. Clone the repository:
 
     ```bash
-    git clone <your-repo-url>
-    cd partical
+    git clone https://github.com/Anton-Ding/partical-interaction.git
+    cd partical-interaction
     ```
 
 2. Open `UI.html` directly (modern browsers like Chrome/Edge are recommended).
@@ -61,8 +61,8 @@ For commercial use, please contact the author to obtain written permission first
 1. 克隆仓库：
 
     ```bash
-    git clone <你的仓库地址>
-    cd partical
+    git clone https://github.com/Anton-Ding/partical-interaction.git
+    cd partical-interaction
     ```
 
 2. 直接打开 `UI.html`（建议使用 Chrome/Edge 等现代浏览器）。
